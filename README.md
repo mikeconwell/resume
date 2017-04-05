@@ -32,7 +32,7 @@ Implemented protection against deep linking for document handling and patient im
 + Led efforts to create a load-balanced hosting facility as affordably as possible.  Negotiated lease of equipment and software leading to a savings of $160,000 over initial estimates.
 
 ### Prudential Owens Realtors (Austin, Texas)  November 1990 - April 2000
-##Director of Operations, Owens Corporate Services
+## Director of Operations, Owens Corporate Services
 + Managed fourteen employees in the collection and delivery of Appraisals and Broker Price Opinions provided electronically to lenders and servicing companies.  
 + Decreased operating expenses through internal automation of certain processes previously performed by vendors.  This allowed for a more expedient product delivery to customers and afforded pay increases to employees.
 + Gathered evidence and testified in court in a civil case of employee theft of trade secrets and data.
